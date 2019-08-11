@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1511921756 source:c:\tp final\tp final\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	"ADL.h"
+
+1511923835 c:\tp final\tp final\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511910178 c:\tp final\tp final\gestionpersonas.h
+
+1511906632 c:\tp final\tp final\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511922572 c:\tp final\tp final\adl.h
+	"filas.h"
+
+1511964743 c:\tp final\tp final\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1511964743 source:c:\tp final\tp final\filas.c
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511910104 source:c:\tp final\tp final\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511923835 source:c:\tp final\tp final\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511908647 source:c:\tp final\tp final\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511908636 c:\tp final\tp final\login.h
+
+1511961829 source:c:\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1511966100 source:c:\tp final\tp final\adl.c
+	"ADL.h"
+	"filas.h"
+	<string.h>
+

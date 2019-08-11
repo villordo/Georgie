@@ -1,0 +1,667 @@
+# depslib dependency file v1.0
+1509558224 source:c:\users\usuario\desktop\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1509558398 c:\users\usuario\desktop\test\gestionpersonas.h
+	"login.h"
+
+1509559054 c:\users\usuario\desktop\test\login.h
+
+1509558940 source:c:\users\usuario\desktop\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1509558940 source:c:\users\usuario\desktop\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+
+1510250192 source:f:\tp final 2\asda\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510250232 f:\tp final 2\asda\test\gestionpersonas.h
+	"login.h"
+
+1510026136 f:\tp final 2\asda\test\login.h
+
+1510072242 source:f:\tp final 2\asda\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510335128 source:f:\tp final 2\asda\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+
+1510854480 source:f:\tp final 2\asda\test\filas.c
+	"Structs.h"
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1509988450 f:\tp final 2\asda\test\structs.h
+
+1510854444 f:\tp final 2\asda\test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1510768520 source:f:\tp final 2\asda\test\adl.c
+	"ADL.h"
+	"filas.h"
+
+1510854444 source:f:\tp final 2\asda\test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1510853820 f:\tp final 2\asda\test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1509985588 source:e:\tp final 2\asda\test\adl.c
+	"filas.h"
+
+1509988506 e:\tp final 2\asda\test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"Structs.h"
+	"gestionPersonas.h"
+
+1509988450 e:\tp final 2\asda\test\structs.h
+
+1509558400 e:\tp final 2\asda\test\gestionpersonas.h
+	"login.h"
+
+1510026136 e:\tp final 2\asda\test\login.h
+
+1509985770 source:e:\tp final 2\asda\test\arboleslib.c
+	"Structs.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1509988500 e:\tp final 2\asda\test\arboleslib.h
+	"Structs.h"
+	"gestionPersonas.h"
+
+1509557690 source:e:\tp final 2\asda\test\filas.c
+	"Structs.h"
+	"filas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1509558226 source:e:\tp final 2\asda\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510010290 source:e:\tp final 2\asda\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+
+1510026540 source:e:\tp final 2\asda\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1509985588 source:g:\tp final 2\asda\test\adl.c
+	"filas.h"
+
+1509988506 g:\tp final 2\asda\test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"Structs.h"
+	"gestionPersonas.h"
+
+1509988450 g:\tp final 2\asda\test\structs.h
+
+1509558400 g:\tp final 2\asda\test\gestionpersonas.h
+	"login.h"
+
+1510026136 g:\tp final 2\asda\test\login.h
+
+1509985770 source:g:\tp final 2\asda\test\arboleslib.c
+	"Structs.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1509988500 g:\tp final 2\asda\test\arboleslib.h
+	"Structs.h"
+	"gestionPersonas.h"
+
+1509557690 source:g:\tp final 2\asda\test\filas.c
+	"Structs.h"
+	"filas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1509558226 source:g:\tp final 2\asda\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510072004 source:g:\tp final 2\asda\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510071724 source:g:\tp final 2\asda\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+
+1510247432 f:\tp final 2\asda\test\adl.h
+	"Structs.h"
+	"filas.h"
+
+1510854368 f:\tp final 2\asda\test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511203256 source:f:\test\adl.c
+	"ADL.h"
+	"filas.h"
+
+1510936932 f:\test\adl.h
+	"Structs.h"
+	"filas.h"
+
+1509988450 f:\test\structs.h
+
+1510854444 f:\test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1510935592 f:\test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1510250232 f:\test\gestionpersonas.h
+	"login.h"
+
+1510026136 f:\test\login.h
+
+1511203682 source:f:\test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1510936156 f:\test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511203520 source:f:\test\filas.c
+	"Structs.h"
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1510250192 source:f:\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510072242 source:f:\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511203094 source:f:\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1510935592 source:f:\test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511203256 source:e:\test\adl.c
+	"ADL.h"
+	"filas.h"
+
+1510936932 e:\test\adl.h
+	"Structs.h"
+	"filas.h"
+
+1509988450 e:\test\structs.h
+
+1510854444 e:\test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1510935592 e:\test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1510250232 e:\test\gestionpersonas.h
+	"login.h"
+
+1510026136 e:\test\login.h
+
+1510941232 source:e:\test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+
+1510936156 e:\test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511203520 source:e:\test\filas.c
+	"Structs.h"
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1510250192 source:e:\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510935592 source:e:\test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1510072242 source:e:\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511203094 source:e:\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1511496345 source:c:\tp\test\adl.c
+	"ADL.h"
+	"filas.h"
+	<string.h>
+
+1511496345 c:\tp\test\adl.h
+	"filas.h"
+
+1509988450 c:\tp\test\structs.h
+
+1511492264 c:\tp\test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1511492264 c:\tp\test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511457044 c:\tp\test\gestionpersonas.h
+
+1511457346 c:\tp\test\login.h
+
+1511495473 source:c:\tp\test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	"ADL.h"
+
+1511494391 c:\tp\test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511492264 source:c:\tp\test\filas.c
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511457038 source:c:\tp\test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511492264 source:c:\tp\test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511457650 source:c:\tp\test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511496345 source:c:\tp\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1511543254 source:c:\users\usuario\desktop\tp test\adl.c
+	"ADL.h"
+	"filas.h"
+	<string.h>
+
+1511496345 c:\users\usuario\desktop\tp test\adl.h
+	"filas.h"
+
+1511544887 c:\users\usuario\desktop\tp test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1511492264 c:\users\usuario\desktop\tp test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511457044 c:\users\usuario\desktop\tp test\gestionpersonas.h
+
+1511544699 source:c:\users\usuario\desktop\tp test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	"ADL.h"
+
+1511542871 c:\users\usuario\desktop\tp test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511544065 source:c:\users\usuario\desktop\tp test\filas.c
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511457038 source:c:\users\usuario\desktop\tp test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511492264 source:c:\users\usuario\desktop\tp test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511457650 source:c:\users\usuario\desktop\tp test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511457346 c:\users\usuario\desktop\tp test\login.h
+
+1511544318 source:c:\users\usuario\desktop\tp test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1511851881 source:c:\users\jorge\desktop\tp test\adl.c
+	"ADL.h"
+	"filas.h"
+	<string.h>
+
+1511850756 c:\users\jorge\desktop\tp test\adl.h
+	"filas.h"
+
+1511820155 c:\users\jorge\desktop\tp test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1511821507 c:\users\jorge\desktop\tp test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511457046 c:\users\jorge\desktop\tp test\gestionpersonas.h
+
+1511837789 source:c:\users\jorge\desktop\tp test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	"ADL.h"
+
+1511837789 c:\users\jorge\desktop\tp test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511823958 source:c:\users\jorge\desktop\tp test\filas.c
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511457040 source:c:\users\jorge\desktop\tp test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511824556 source:c:\users\jorge\desktop\tp test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511835296 source:c:\users\jorge\desktop\tp test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511457348 c:\users\jorge\desktop\tp test\login.h
+
+1511850756 source:c:\users\jorge\desktop\tp test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1511921756 source:c:\tp test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	"ADL.h"
+
+1511923835 c:\tp test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511910178 c:\tp test\gestionpersonas.h
+
+1511906632 c:\tp test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511922572 c:\tp test\adl.h
+	"filas.h"
+
+1511922405 c:\tp test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1511923805 source:c:\tp test\filas.c
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511910104 source:c:\tp test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511923835 source:c:\tp test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511908647 source:c:\tp test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511908636 c:\tp test\login.h
+
+1511925006 source:c:\tp test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
+1511924415 source:c:\tp test\adl.c
+	"ADL.h"
+	"filas.h"
+	<string.h>
+
+1511924415 source:c:\users\jorge\desktop\tp final\tp test\adl.c
+	"ADL.h"
+	"filas.h"
+	<string.h>
+
+1511922572 c:\users\jorge\desktop\tp final\tp test\adl.h
+	"filas.h"
+
+1511922405 c:\users\jorge\desktop\tp final\tp test\filas.h
+	<stdio.h>
+	<stdlib.h>
+	"lista2.h"
+	"gestionPersonas.h"
+
+1511923835 c:\users\jorge\desktop\tp final\tp test\lista2.h
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511910178 c:\users\jorge\desktop\tp final\tp test\gestionpersonas.h
+
+1511921756 source:c:\users\jorge\desktop\tp final\tp test\arboleslib.c
+	"lista2.h"
+	"arboleslib.h"
+	<stdio.h>
+	<strings.h>
+	<stdlib.h>
+	"ADL.h"
+
+1511906632 c:\users\jorge\desktop\tp final\tp test\arboleslib.h
+	"ADL.h"
+	"gestionPersonas.h"
+
+1511923805 source:c:\users\jorge\desktop\tp final\tp test\filas.c
+	"filas.h"
+	"lista2.h"
+	<stdio.h>
+	<stdlib.h>
+
+1511910104 source:c:\users\jorge\desktop\tp final\tp test\gestionpersonas.c
+	"gestionPersonas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511923835 source:c:\users\jorge\desktop\tp final\tp test\lista2.c
+	"lista2.h"
+	<string.h>
+
+1511908647 source:c:\users\jorge\desktop\tp final\tp test\login.c
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511908636 c:\users\jorge\desktop\tp final\tp test\login.h
+
+1511932701 source:c:\users\jorge\desktop\tp final\tp test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestionPersonas.h"
+	"login.h"
+	"arboleslib.h"
+	"strings.h"
+	"ADL.h"
+	"filas.h"
+
